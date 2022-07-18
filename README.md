@@ -1,2 +1,2 @@
-# .github
+# TipoAI
 This is an test
