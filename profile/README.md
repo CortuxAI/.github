@@ -8,3 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 For help, reviews or questions, contact us at liam_nordvall@hotmail.com
 
 # License
+
+# Credits
+All credits are reserved to Liam Nordvall and Lord Hummer. They stand for all development and work behind the LearnML organisation, its repos and all the reserach behing the Tipo library
