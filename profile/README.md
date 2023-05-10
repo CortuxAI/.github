@@ -1,2 +1,2 @@
-## We are TipoAI
-We believe in a future for AI where people all around the world easily can get to know the hard concepts of the AI architecture. We are developing easy to use libraries for developing AI for your company or a school project of yours. To get in touch please email us at liam_nordvall@hotmail.com!
+## We are LearnML
+![LEARNML](https://github.com/CortuxAI/.github/assets/86798194/49752a06-55c3-44c3-a733-e56e7b33fb63)
