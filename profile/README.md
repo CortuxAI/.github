@@ -6,3 +6,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Contact
 For help, reviews or questions, contact us at liam_nordvall@hotmail.com
+
+# License
