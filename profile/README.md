@@ -1,6 +1,11 @@
 ![LEARNML](https://github.com/CortuxAI/.github/assets/86798194/d8cc654f-ff39-4afa-b8a6-b17af93f06a0)
 # We are LearnML
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra convallis posuere morbi leo urna molestie. Eu tincidunt tortor aliquam nulla facilisi cras. Dolor sit amet consectetur adipiscing. In pellentesque massa placerat duis ultricies lacus sed turpis tincidunt. Donec pretium vulputate sapien nec. Interdum velit euismod in pellentesque massa placerat. In dictum non consectetur a erat. Neque gravida in fermentum et sollicitudin ac orci. Adipiscing elit ut aliquam purus sit amet luctus venenatis lectus. Quisque id diam vel quam elementum. Enim eu turpis egestas pretium aenean pharetra. Porta lorem mollis aliquam ut porttitor leo a diam. Commodo nulla facilisi nullam vehicula. Eget nunc lobortis mattis aliquam faucibus purus in massa.
+Welcome to LearnML-Corp!
+We are an organization that aims to provide knowledge, projects, research on AI. And we do it for free!
+LearnML-Corp is a non-profit organization, which means that all members are volunteers and spend their free time on the development of LearnML.
+We believe in a future where AI is developed and used responsibly. This is only possible if both users and developers have some understanding of AI technology.
+We want to provide this understanding in the form of our projects and courses.
+You can visit the courses and view material on our Discord server, YouTube channel or on the GitHub organization.
 
 
 # Courses
